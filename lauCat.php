@@ -18,7 +18,7 @@
 	<br><br>
 	<div style="width:500px; margin-left: 90px; background-color: #F8E0E0;">
 <form action="marks.php">
-	First Name:
+	First Name:z
 <input type="" name="" required=""><br><br>
 	Second Name:
 <input type="text" name="" required=""><br><br>
